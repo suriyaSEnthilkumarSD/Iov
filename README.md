@@ -42,7 +42,6 @@ Together, these components provide a robust framework capable of detecting both 
 #  System Architecture
 # <img width="1600" height="728" alt="14cf2896-5bb9-4965-af41-e3b2dec22388" src="https://github.com/user-attachments/assets/b9e7ed7c-9e0d-4965-b9ce-7ae51936b270" />
 
-https://github.com/user-attachments/assets/ad014367-9021-488d-8c10-c6ab353628c2
 
 
 
@@ -287,21 +286,6 @@ The proposed system successfully:
 * Stores novel attacks for future learning.
 * Incrementally learns newly discovered attack classes using Continual Learning.
 * Improves the adaptability of the Intrusion Detection System against evolving cyber threats.
-
----
-
-#  Application Screenshots
----
-benign
-<img width="1600" height="900" alt="1a861b30-ba2f-433f-895a-86d5aeec912a" src="https://github.com/user-attachments/assets/22d4f452-cc34-40e0-be38-5aa929b2546c" />
----
-attacks
-<img width="1600" height="900" alt="fe76919f-0ad7-4fd5-84ab-c5106f6abed4" src="https://github.com/user-attachments/assets/c6a76e21-e8be-4a67-801f-94067b0c5dc8" />
-
----
-novel attack 
-
-<img width="1600" height="900" alt="0bc605cc-ae4b-45e3-8fa9-63e42f591b72" src="https://github.com/user-attachments/assets/8ce42509-6e09-4203-907d-2ce1b2e04f87" />
 
 
 ---
